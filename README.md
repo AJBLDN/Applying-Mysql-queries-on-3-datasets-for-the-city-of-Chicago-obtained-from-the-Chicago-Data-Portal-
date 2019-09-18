@@ -1,4 +1,4 @@
-#  Applying sql queries on 3 datasets for the city of Chicago obtained from the Chicago Data Portal using IBM DB2 cloud
+#  Applying sql queries on 3 datasets for the city of Chicago obtained from the Chicago Data Portal using IBM DB2 Console
 
 1. Chicago Socioeconomic Indicators
 
